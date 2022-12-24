@@ -1,10 +1,6 @@
-BITSF452_A2_15
-+++++++++++++++++++++++++++++++++++++
-GROUP 15 
-+++++++++++++++++++++++++++++++++++++
 
 
-We, Group 15, have created a smart contract which will make sure 2 things happen is a trustless e-commerce environment between a seller and buyers.
+We have created a smart contract which will make sure 2 things happen is a trustless e-commerce environment between a seller and buyers.
 
 1. The product is dispatched by the seller only when the payment by the customer is confirmed.
 2. The seller receives the money for the sold product only when they deliver the product.
